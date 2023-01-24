@@ -1,5 +1,5 @@
 BACKGROUND ?= tiled.png
-THEME ?= gruvbox.tdesktop-theme
+THEME ?= gruvbox-material.tdesktop-theme
 
 cook: colors.tdesktop-theme $(BACKGROUND)
 	zip $(THEME) colors.tdesktop-theme $(BACKGROUND)
