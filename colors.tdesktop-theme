@@ -374,7 +374,7 @@ youtubePlayIconBg: neutral_red_75;
 youtubePlayIconFg: fg0;
 videoPlayIconBg: bg2_50;
 videoPlayIconFg: fg2;
-toastBg: #ebdbb2b2;
+toastBg: windowBgActive;
 toastFg: windowFgActive;
 reportSpamBg: emojiPanHeaderBg;
 reportSpamFg: windowFg;
